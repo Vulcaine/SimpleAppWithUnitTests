@@ -2,7 +2,7 @@
 Balabit interview project
 
 # Starting
-run ```npm init``` in root directory to get started
+run ```npm install``` in root directory to get started
 
 open main.js and change the URL at line 92
 
